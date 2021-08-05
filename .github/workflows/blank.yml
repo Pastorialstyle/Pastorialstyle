@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<title>YSF FOUNDATION</title>
+<body>
+
+<h1 style="text-align:center;"> <p style="color:green;"> <i>YSF FOUNDATION NON_GOVERNMENTAL ORGANISATION</i></p></h1>
+<h2 style="text-align:center;"> <p style="color:yellow;">It's Recognized by the Government</p></h1>
+ 
+<body>
+<body background-image="C:\Users\Beejay\Documents\Homeless.jpg">
+</body>
+<head>
+<style>
+div {background-color: green;}
+div a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  padding: 15px;
+  display:inline-block;
+}
+ul {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+ul li {display: inline-block;}
+ul li:hover {background: #A52A2A;}
+ul li:hover ul {display: block;}
+ul li ul {
+  position: absolute;
+  width: 200px;
+  display: none;
+}
+ul li ul li { 
+  background: #DEB887; 
+  display: block; 
+}
+ul li ul li a {display:block !important;} 
+ul li ul li:hover {background: #00FFFF;}
+</style>
+</head>
+<body>
+
+<div>
+  <a href="#">HOME</a>
+  <ul>
+    <li>
+      <a href="#">ABOUT US</a>
+      <ul>
+        <li><a href="#">Overview </a></li>
+        <li><a href="#">Research and Presence</a></li>
+        <li><a href="#">Impact</a></li>
+      </ul>
+    </li>
+  </ul>
+  <ul>
+    <li>
+      <a href="#">OUR WORK</a>
+      <ul>
+        <li><a href="#">Education</a></li>
+        <li><a href="#">Health</a></li>
+        <li><a href="#">Women Empowerment</a></li>
+      </ul>
+    </li>
+  </ul>
+  <ul>
+    <li>
+      <a href="#">GET INVOLVED</a>
+      <ul>
+        <li><a href="#">Individual Support</a></li>
+        <li><a href="#">Cooperate Partnership</a></li>
+        <li><a href="#">Donations</a></li>
+      </ul>
+    </li>
+  </ul>
+  <ul>
+    <li>
+      <a href="#">CONTACT US</a>
+      <ul>
+  </ul>
+</div>
+
+<h4 style="text-align:left;"> <p style="color:red;"> <i> ABOUT YSF FOUNDATION NON_GOVERNMENTAL ORGANISATION</i></p></h4><br>
+<h5 style="color:blue;"><p>This platform is created in helping the needy ones aand also tried to create a chelter for the people that are in need</p></h5>
+<h5 style="color:blue;"><p>If you are willing to help us in donating to our organisation you can go through our site and learn how you can support<p></h5>
+<h5 style="color:blue;"><p>This Organisation is created in a goodwill of supporting people that needed  support and doesn't have a home</p></h5><br>
+<h2 style="color:blue;">Donate for our Organisation</h2>
+
+<button onclick="myFunction()">Try me</button>
+
+<script>
+function myFunction() {
+  alert("Donate for the needy ones!");
+}
+</script>
+<br>
+<br>
+<br>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0}
+.mySlides {display: none}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1200px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: blue;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+</style>
+</head>
+<body>
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 3</div>
+  <img src="C:\Users\Beejay\Documents\Homeless.jpg" style="width:100%">
+  <div class="text">Help Us Feed Needy Ones</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img src="C:\Users\Beejay\Documents\homeless2.jpg" style="width:100%">
+  <div class="text">Your Donations Can Save Lives</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="C:\Users\Beejay\Documents\homelessdog.jpg" style="width:100%">
+  <div class="text">Donate now</div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+</div>
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
+
+<br>
+<h3 style="color:green;"> WHAT YOU NEED TO KNOW ABOUT THIS NGO OF YSF</h3>
+<br>
+     <p>YSF foundation an NGO foundation which is ready to lift people out of poverty<br>
+      has already promise to help the needy ones that are in need of human support in there lives<br>
+      We have truly map out how this organisation will benefit lot of homeless that sleeps in street</p>
+     <br>
+      Education is both the means as well as the end to a better life:the means because it<br>
+      empowers an individual to earn his/her livelihood and the end because it increases one's<br>
+      awareness on a range of issues – from healthcare to appropriate social behaviour to<br>
+      understanding one's rights – and in the process help him/her evolve as a better citizen.<br>
+      <br>
+      Doubtless, education is the most powerful catalyst for social transformation. But child<br>
+      education cannot be done in isolation. A child will go to school only if the family,<br>
+      particularly the mother, is assured of healthcare and empowered. Moreover, when an elder<br>
+      sibling is relevantly skilled to be employable and begins earning, the journey of<br>
+      empowerment continues beyond the present generation.</p>
+	  
+	  <br>
+	  
+	  <h1 style=text-align:center;">
+     <img src="C:\Users\Beejay\Documents\map.png" alt="map.png" style="width:1000px;height:400px;">
+	 </h1>
+	 <p style="color:green;"> We are working tirelesly to make sure we cover some parts in this world<br>
+	 and the logo below indicates our aim to reduce poverty in part of this world by <br>
+	 providing shelters for the homeless ones and also gave them the life they always<br>
+	 dream about,putiing smile on the needy ones face is our job.</p>
+	 
+	 <br>
+	 <h4 style="color:red;"> FORM REGISTRATION FOR THE PEOPLE THAT WANT TO DONATE</h4>
+	 <br>
+	 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+.input-container {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.icon {
+  padding: 10px;
+  background: dodgerblue;
+  color: white;
+  min-width: 50px;
+  text-align: center;
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+}
+
+.input-field:focus {
+  border: 2px solid dodgerblue;
+}
+
+/* Set a style for the submit button */
+.btn {
+  background-color: dodgerblue;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+</style>
+</head>
+<body>
+
+<form action="/action_page.php" style="max-width:500px;margin:auto">
+  <h2>Register Form</h2>
+  <div class="input-container">
+    <i class="fa fa-user icon"></i>
+    <input class="input-field" type="text" placeholder="Username" name="usrnm">
+  </div>
+
+  <div class="input-container">
+    <i class="fa fa-envelope icon"></i>
+    <input class="input-field" type="text" placeholder="Email" name="email">
+  </div>
+  
+  <div class="input-container">
+    <i class="fa fa-key icon"></i>
+    <input class="input-field" type="password" placeholder="Password" name="psw">
+  </div>
+
+  <button type="submit" class="btn">Register</button>
+</form>
+
+
+
+
+</body>
+</body>
+</html>
